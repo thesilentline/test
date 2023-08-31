@@ -1,5 +1,0 @@
-{{#user}}
-Name: Divyanshi Singh Bora
-Skills: HTML, CSS, JS, c++, python, java, bash, sql, machine learing
-Email: bora.1@iitj.ac.in
-{{/user}}
